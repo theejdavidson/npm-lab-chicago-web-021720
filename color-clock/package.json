@@ -1,0 +1,27 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "a clock that displays with color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-co-students/npm-lab-chicago-web-021720.git"
+  },
+  "keywords": [
+    "cool",
+    "colorful",
+    "clock"
+  ],
+  "author": "ethan davidson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learn-co-students/npm-lab-chicago-web-021720/issues"
+  },
+  "homepage": "https://github.com/learn-co-students/npm-lab-chicago-web-021720#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
